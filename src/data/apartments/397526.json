@@ -1,0 +1,50 @@
+{
+  "id": 397526,
+  "author_id": 849947,
+  "location": {
+    "address": "Минск, улица Славинского, 29",
+    "user_address": "Минск, улица Славинского, 29",
+    "latitude": 53.937164,
+    "longitude": 27.636873
+  },
+  "price": {
+    "amount": "60000.00",
+    "currency": "USD",
+    "converted": {
+      "BYN": {
+        "amount": "152394.00",
+        "currency": "BYN"
+      },
+      "USD": {
+        "amount": "60000.00",
+        "currency": "USD"
+      }
+    }
+  },
+  "resale": true,
+  "number_of_rooms": 2,
+  "floor": 9,
+  "number_of_floors": 9,
+  "area": {
+    "total": 49.2,
+    "living": 30.9,
+    "kitchen": 7.1
+  },
+  "photo": "https://content.onliner.by/apartment_for_sale/849947/600x400/3093ef1242e5bbc0f5bc66b474b48d4e.jpeg",
+  "seller": {
+    "type": "agent"
+  },
+  "created_at": "2020-09-28T13:33:07+0300",
+  "last_time_up": "2020-10-22T16:45:02+0300",
+  "up_available_in": 10451,
+  "url": "https://r.onliner.by/pk/apartments/397526",
+  "auction_bid": null,
+  "priceHistory": [
+    {
+      "2020-09-30T06:45:36.422Z": "64900 USD"
+    },
+    {
+      "2020-10-15T19:51:01.032Z": "60000 USD"
+    }
+  ]
+}
