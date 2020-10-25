@@ -1,0 +1,47 @@
+{
+  "id": 275687,
+  "author_id": 1608827,
+  "location": {
+    "address": "",
+    "user_address": "Независимости просп., 123/3",
+    "latitude": 53.936302,
+    "longitude": 27.641485
+  },
+  "price": {
+    "amount": "57999.00",
+    "currency": "USD",
+    "converted": {
+      "BYN": {
+        "amount": "150449.41",
+        "currency": "BYN"
+      },
+      "USD": {
+        "amount": "57999.00",
+        "currency": "USD"
+      }
+    }
+  },
+  "resale": true,
+  "number_of_rooms": 1,
+  "floor": 14,
+  "number_of_floors": 16,
+  "area": {
+    "total": 35.9,
+    "living": 17,
+    "kitchen": 9
+  },
+  "photo": "https://content.onliner.by/apartment_for_sale/1608827/600x400/8d94df0214d8baf8313c746c6c8eaa3e.jpeg",
+  "seller": {
+    "type": "agent"
+  },
+  "created_at": "2019-06-12T17:55:18+0300",
+  "last_time_up": "2020-09-13T09:10:04+0300",
+  "up_available_in": 84091,
+  "url": "https://r.onliner.by/pk/apartments/275687",
+  "auction_bid": null,
+  "priceHistory": [
+    {
+      "2020-08-17T22:05:55.381Z": "57999 USD"
+    }
+  ]
+}

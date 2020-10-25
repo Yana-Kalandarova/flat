@@ -1,0 +1,47 @@
+{
+  "id": 391188,
+  "author_id": 2284548,
+  "location": {
+    "address": "Минск, улица Калиновского, 14",
+    "user_address": "Минск, улица Калиновского, 14",
+    "latitude": 53.943134,
+    "longitude": 27.635494
+  },
+  "price": {
+    "amount": "85000.00",
+    "currency": "USD",
+    "converted": {
+      "BYN": {
+        "amount": "218594.50",
+        "currency": "BYN"
+      },
+      "USD": {
+        "amount": "85000.00",
+        "currency": "USD"
+      }
+    }
+  },
+  "resale": true,
+  "number_of_rooms": 4,
+  "floor": 2,
+  "number_of_floors": 5,
+  "area": {
+    "total": 59.1,
+    "living": 41.8,
+    "kitchen": 6.2
+  },
+  "photo": "https://content.onliner.by/apartment_for_sale/2284548/600x400/ea5ab1f2113fee8ff4f631579e008063.jpeg",
+  "seller": {
+    "type": "agent"
+  },
+  "created_at": "2020-09-07T18:46:12+0300",
+  "last_time_up": "2020-10-12T13:22:09+0300",
+  "up_available_in": 0,
+  "url": "https://r.onliner.by/pk/apartments/391188",
+  "auction_bid": null,
+  "priceHistory": [
+    {
+      "2020-09-15T06:48:33.152Z": "85000 USD"
+    }
+  ]
+}

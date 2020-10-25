@@ -1,0 +1,47 @@
+{
+  "id": 400332,
+  "author_id": 1869120,
+  "location": {
+    "address": "Минск, Славинского ул. 17",
+    "user_address": "Минск, Славинского ул. 17",
+    "latitude": 53.938801,
+    "longitude": 27.635099
+  },
+  "price": {
+    "amount": "55800.00",
+    "currency": "USD",
+    "converted": {
+      "BYN": {
+        "amount": "143500.86",
+        "currency": "BYN"
+      },
+      "USD": {
+        "amount": "55800.00",
+        "currency": "USD"
+      }
+    }
+  },
+  "resale": true,
+  "number_of_rooms": 2,
+  "floor": 2,
+  "number_of_floors": 9,
+  "area": {
+    "total": 39.8,
+    "living": 22.5,
+    "kitchen": 7.2
+  },
+  "photo": "https://static.realt.by/user/lb/4/site1htvc4lb/bf19c61364fa54c2.jpg?1602068917",
+  "seller": {
+    "type": "agent"
+  },
+  "created_at": "2020-10-07T15:09:03+0300",
+  "last_time_up": "2020-10-15T21:00:04+0300",
+  "up_available_in": 252543,
+  "url": "https://r.onliner.by/pk/apartments/400332",
+  "auction_bid": null,
+  "priceHistory": [
+    {
+      "2020-10-15T19:51:01.032Z": "55800 USD"
+    }
+  ]
+}

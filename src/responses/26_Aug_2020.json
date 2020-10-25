@@ -1,0 +1,2492 @@
+{
+  "apartments": [
+    {
+      "id": 384491,
+      "author_id": 2230869,
+      "location": {
+        "address": "Минск, проспект Независимости, 145",
+        "user_address": "Минск, проспект Независимости, 145",
+        "latitude": 53.934948,
+        "longitude": 27.64839
+      },
+      "price": {
+        "amount": "52000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "135345.60",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "52000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 1,
+      "floor": 6,
+      "number_of_floors": 9,
+      "area": {
+        "total": 35,
+        "living": 17.1,
+        "kitchen": 7.2
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/2230869/600x400/e9b4314e6f2fcfbbdfc72eaf716344c0.jpeg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-08-13T15:47:54+0300",
+      "last_time_up": "2020-08-24T09:25:05+0300",
+      "up_available_in": 47583,
+      "url": "https://r.onliner.by/pk/apartments/384491",
+      "auction_bid": {
+        "amount": "2.00",
+        "currency": "BYN"
+      }
+    },
+    {
+      "id": 387751,
+      "author_id": 2230869,
+      "location": {
+        "address": "Минск, проспект Независимости, 137 к1",
+        "user_address": "Минск, проспект Независимости, 137 к1",
+        "latitude": 53.93602,
+        "longitude": 27.645115
+      },
+      "price": {
+        "amount": "87000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "226443.60",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "87000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 4,
+      "number_of_floors": 9,
+      "area": {
+        "total": 50.9,
+        "living": 30.8,
+        "kitchen": 7
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/2230869/600x400/9a3bff5bf416a549ea84fde2bb431bd4.jpeg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-08-26T19:51:17+0300",
+      "last_time_up": "2020-08-26T19:51:17+0300",
+      "up_available_in": 257955,
+      "url": "https://r.onliner.by/pk/apartments/387751",
+      "auction_bid": null
+    },
+    {
+      "id": 338697,
+      "author_id": 1618172,
+      "location": {
+        "address": "Беларусь, г. Минск, Калиновского ул., 52",
+        "user_address": "Калиновского ул., 52",
+        "latitude": 53.939766,
+        "longitude": 27.647181
+      },
+      "price": {
+        "amount": "55500.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "144455.40",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "55500.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 5,
+      "number_of_floors": 5,
+      "area": {
+        "total": 50.4,
+        "living": 33.6,
+        "kitchen": 6.2
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/1618172/600x400/cf2b3958c245092844525a70b53f54ae.jpeg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-03-12T18:08:33+0300",
+      "last_time_up": "2020-08-26T18:07:04+0300",
+      "up_available_in": 251702,
+      "url": "https://r.onliner.by/pk/apartments/338697",
+      "auction_bid": null
+    },
+    {
+      "id": 385732,
+      "author_id": 1708337,
+      "location": {
+        "address": "Беларусь, Минск, Независимости просп., 141 ,2",
+        "user_address": "Независимости просп., 141 ,2",
+        "latitude": 53.935398,
+        "longitude": 27.6467
+      },
+      "price": {
+        "amount": "75000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "195210.00",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "75000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 4,
+      "floor": 2,
+      "number_of_floors": 5,
+      "area": {
+        "total": 57.1,
+        "living": 41.1,
+        "kitchen": 6
+      },
+      "photo": "https://manager.t-s.by//uploads/flats/981797/flats/981797-1.jpg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-08-19T16:48:02+0300",
+      "last_time_up": "2020-08-26T15:33:17+0300",
+      "up_available_in": 242475,
+      "url": "https://r.onliner.by/pk/apartments/385732",
+      "auction_bid": null
+    },
+    {
+      "id": 387638,
+      "author_id": 3014223,
+      "location": {
+        "address": "Минск, улица Калиновского, 73 к1",
+        "user_address": "Минск, улица Калиновского, 73 к1",
+        "latitude": 53.945656,
+        "longitude": 27.634525
+      },
+      "price": {
+        "amount": "46000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "119728.80",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "46000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 1,
+      "floor": 4,
+      "number_of_floors": 5,
+      "area": {
+        "total": 33.4,
+        "living": 17.2,
+        "kitchen": 6.2
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/3014223/600x400/c409148d4ed0e677c61f05360b4b5b2d.jpeg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-08-26T14:03:12+0300",
+      "last_time_up": "2020-08-26T14:03:12+0300",
+      "up_available_in": 237070,
+      "url": "https://r.onliner.by/pk/apartments/387638",
+      "auction_bid": null
+    },
+    {
+      "id": 358323,
+      "author_id": 819328,
+      "location": {
+        "address": "Минск, Славинского ул. 21",
+        "user_address": "Минск, Славинского ул. 21",
+        "latitude": 53.939499,
+        "longitude": 27.636768
+      },
+      "price": {
+        "amount": "60000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "156168.00",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "60000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 5,
+      "number_of_floors": 5,
+      "area": {
+        "total": 44.7,
+        "living": 28.6,
+        "kitchen": 6.2
+      },
+      "photo": "https://static.realt.by/user/g9/h/02331aiuehg9/8f0b643f9f1ed20c.jpeg?1592215085",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-05-21T15:51:05+0300",
+      "last_time_up": "2020-08-26T13:09:51+0300",
+      "up_available_in": 233869,
+      "url": "https://r.onliner.by/pk/apartments/358323",
+      "auction_bid": null
+    },
+    {
+      "id": 372625,
+      "author_id": 1608827,
+      "location": {
+        "address": "",
+        "user_address": "Калиновского ул., 99",
+        "latitude": 53.943394,
+        "longitude": 27.640434
+      },
+      "price": {
+        "amount": "69900.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "181935.72",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "69900.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 3,
+      "floor": 8,
+      "number_of_floors": 9,
+      "area": {
+        "total": 60.1,
+        "living": 42.4,
+        "kitchen": 8.3
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/1608827/600x400/eb6a8167a42db92befb87593eb048380.jpeg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-07-09T23:55:15+0300",
+      "last_time_up": "2020-08-26T09:10:20+0300",
+      "up_available_in": 219498,
+      "url": "https://r.onliner.by/pk/apartments/372625",
+      "auction_bid": null
+    },
+    {
+      "id": 346910,
+      "author_id": 1608827,
+      "location": {
+        "address": "",
+        "user_address": "Калиновского ул., 74/1",
+        "latitude": 53.937981,
+        "longitude": 27.652479
+      },
+      "price": {
+        "amount": "72000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "187401.60",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "72000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 4,
+      "number_of_floors": 9,
+      "area": {
+        "total": 46.4,
+        "living": 28.1,
+        "kitchen": 7.2
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/1608827/600x400/f26694b4c5dcc93a2af53559739d6310.jpeg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-04-07T17:02:25+0300",
+      "last_time_up": "2020-08-26T09:10:11+0300",
+      "up_available_in": 219489,
+      "url": "https://r.onliner.by/pk/apartments/346910",
+      "auction_bid": null
+    },
+    {
+      "id": 276385,
+      "author_id": 1705026,
+      "location": {
+        "address": "Минск, улица Калиновского, 30",
+        "user_address": "Минск, улица Калиновского, 30",
+        "latitude": 53.941151,
+        "longitude": 27.639418
+      },
+      "price": {
+        "amount": "70000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "182196.00",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "70000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 3,
+      "floor": 3,
+      "number_of_floors": 5,
+      "area": {
+        "total": 61.3,
+        "living": 46,
+        "kitchen": 6.2
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/1705026/600x400/6b5271a77e5c9bed9be231a28b2ed0f4.jpeg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2019-06-17T16:48:02+0300",
+      "last_time_up": "2020-08-25T21:58:08+0300",
+      "up_available_in": 179166,
+      "url": "https://r.onliner.by/pk/apartments/276385",
+      "auction_bid": null
+    },
+    {
+      "id": 308127,
+      "author_id": 1910711,
+      "location": {
+        "address": "Минск, улица Славинского, 7 к1",
+        "user_address": "Минск, улица Славинского, 7 к1",
+        "latitude": 53.940495,
+        "longitude": 27.634432
+      },
+      "price": {
+        "amount": "63000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "163976.40",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "63000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 4,
+      "floor": 5,
+      "number_of_floors": 5,
+      "area": {
+        "total": 58.3,
+        "living": 41.7,
+        "kitchen": 6.2
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/1910711/600x400/313cba9772e6e7975f4b33aae69f7506.jpeg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2019-11-19T15:54:35+0300",
+      "last_time_up": "2020-08-25T18:59:30+0300",
+      "up_available_in": 168448,
+      "url": "https://r.onliner.by/pk/apartments/308127",
+      "auction_bid": null
+    },
+    {
+      "id": 326699,
+      "author_id": 2704053,
+      "location": {
+        "address": "Минск, улица Калиновского, 78",
+        "user_address": "Минск, улица Калиновского дом 78",
+        "latitude": 53.937065,
+        "longitude": 27.653145
+      },
+      "price": {
+        "amount": "60000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "156168.00",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "60000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 5,
+      "number_of_floors": 5,
+      "area": {
+        "total": 49.9,
+        "living": 34.4,
+        "kitchen": 6.2
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/2704053/600x400/86c10d87c7ba811ad32326cc9e2ca159.jpeg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-02-04T13:25:12+0300",
+      "last_time_up": "2020-08-25T13:07:34+0300",
+      "up_available_in": 147332,
+      "url": "https://r.onliner.by/pk/apartments/326699",
+      "auction_bid": null
+    },
+    {
+      "id": 343813,
+      "author_id": 1790292,
+      "location": {
+        "address": "Беларусь, Минск, Славинского ул., 6",
+        "user_address": "Беларусь, Минск, Славинского ул., 6",
+        "latitude": 53.942047,
+        "longitude": 27.629976
+      },
+      "price": {
+        "amount": "117000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "304527.60",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "117000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 3,
+      "floor": 5,
+      "number_of_floors": 9,
+      "area": {
+        "total": 72,
+        "living": 44.3,
+        "kitchen": 8.9
+      },
+      "photo": "https://an7.by/upload/crm/2028e02afe8d9debe345eebf4974b2f1_1568365249.jpg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-03-27T14:43:49+0300",
+      "last_time_up": "2020-08-25T12:55:57+0300",
+      "up_available_in": 146635,
+      "url": "https://r.onliner.by/pk/apartments/343813",
+      "auction_bid": null
+    },
+    {
+      "id": 275687,
+      "author_id": 1608827,
+      "location": {
+        "address": "",
+        "user_address": "Независимости просп., 123/3",
+        "latitude": 53.936302,
+        "longitude": 27.641485
+      },
+      "price": {
+        "amount": "57999.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "150959.80",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "57999.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 1,
+      "floor": 14,
+      "number_of_floors": 16,
+      "area": {
+        "total": 35.9,
+        "living": 17,
+        "kitchen": 9
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/1608827/600x400/8d94df0214d8baf8313c746c6c8eaa3e.jpeg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2019-06-12T17:55:18+0300",
+      "last_time_up": "2020-08-25T08:17:22+0300",
+      "up_available_in": 129920,
+      "url": "https://r.onliner.by/pk/apartments/275687",
+      "auction_bid": null
+    },
+    {
+      "id": 352383,
+      "author_id": 1183121,
+      "location": {
+        "address": "Минск, улица Кедышко, 26",
+        "user_address": "Минска,проспект Независимости,Кедышко,14-а",
+        "latitude": 53.934689,
+        "longitude": 27.633705
+      },
+      "price": {
+        "amount": "77700.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "202237.56",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "77700.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 1,
+      "number_of_floors": 5,
+      "area": {
+        "total": 45,
+        "living": 38,
+        "kitchen": null
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/1183121/600x400/d5171790f218f1a3ee05571c1ef22b1b.jpeg",
+      "seller": {
+        "type": "owner"
+      },
+      "created_at": "2020-04-28T15:55:46+0300",
+      "last_time_up": "2020-08-24T22:26:45+0300",
+      "up_available_in": 94483,
+      "url": "https://r.onliner.by/pk/apartments/352383",
+      "auction_bid": null
+    },
+    {
+      "id": 386962,
+      "author_id": 1790292,
+      "location": {
+        "address": "Беларусь, Минск, Независимости просп., 149",
+        "user_address": "Беларусь, Минск, Независимости просп., 149",
+        "latitude": 53.936069,
+        "longitude": 27.649355
+      },
+      "price": {
+        "amount": "80000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "208224.00",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "80000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 4,
+      "floor": 2,
+      "number_of_floors": 5,
+      "area": {
+        "total": 57.4,
+        "living": 41.2,
+        "kitchen": 6.1
+      },
+      "photo": "https://an7.by/upload/crm/6f1f6943b06cf42a8069b2f41f8df67f_1590679034.jpg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-08-24T16:52:02+0300",
+      "last_time_up": "2020-08-24T16:52:02+0300",
+      "up_available_in": 74400,
+      "url": "https://r.onliner.by/pk/apartments/386962",
+      "auction_bid": null
+    },
+    {
+      "id": 292965,
+      "author_id": 1432028,
+      "location": {
+        "address": "Минск, улица Калиновского, 18",
+        "user_address": "Минск, улица Калиновского, 18",
+        "latitude": 53.942081,
+        "longitude": 27.635683
+      },
+      "price": {
+        "amount": "57500.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "149661.00",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "57500.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 5,
+      "number_of_floors": 5,
+      "area": {
+        "total": 43.8,
+        "living": 28.7,
+        "kitchen": 6.2
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/1432028/600x400/87b36eb74b7f183301156c67446da789.jpeg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2019-09-12T15:35:51+0300",
+      "last_time_up": "2020-08-24T16:45:37+0300",
+      "up_available_in": 74015,
+      "url": "https://r.onliner.by/pk/apartments/292965",
+      "auction_bid": null
+    },
+    {
+      "id": 350663,
+      "author_id": 1432028,
+      "location": {
+        "address": "Минск, улица Калиновского, 91",
+        "user_address": "Минск, улица Калиновского, 91",
+        "latitude": 53.944714,
+        "longitude": 27.638762
+      },
+      "price": {
+        "amount": "45500.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "118427.40",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "45500.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 1,
+      "floor": 1,
+      "number_of_floors": 5,
+      "area": {
+        "total": 32.6,
+        "living": 17.5,
+        "kitchen": 6.1
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/1432028/600x400/2b102215402bd3c882b3e29751cdfb4a.jpeg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-04-21T11:08:58+0300",
+      "last_time_up": "2020-08-24T16:45:11+0300",
+      "up_available_in": 73989,
+      "url": "https://r.onliner.by/pk/apartments/350663",
+      "auction_bid": null
+    },
+    {
+      "id": 368772,
+      "author_id": 1869120,
+      "location": {
+        "address": "Минск, Калиновского ул. 60",
+        "user_address": "Минск, Калиновского ул. 60",
+        "latitude": 53.9408,
+        "longitude": 27.652901
+      },
+      "price": {
+        "amount": "55000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "143154.00",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "55000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 5,
+      "number_of_floors": 5,
+      "area": {
+        "total": 49.5,
+        "living": 34.3,
+        "kitchen": 6.1
+      },
+      "photo": "https://static.realt.by/user/sc/8/site1ch2l8sc/fe10ccdb37453007.jpg?1593073975",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-06-25T11:37:02+0300",
+      "last_time_up": "2020-08-24T15:51:35+0300",
+      "up_available_in": 70773,
+      "url": "https://r.onliner.by/pk/apartments/368772",
+      "auction_bid": null
+    },
+    {
+      "id": 354338,
+      "author_id": 1708337,
+      "location": {
+        "address": "Беларусь, Минск, Севастопольская ул., 41",
+        "user_address": "Севастопольская ул., 41",
+        "latitude": 53.9366,
+        "longitude": 27.624901
+      },
+      "price": {
+        "amount": "50000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "130140.00",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "50000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 1,
+      "floor": 1,
+      "number_of_floors": 1,
+      "area": {
+        "total": 37.7,
+        "living": 23.8,
+        "kitchen": 9.4
+      },
+      "photo": "https://manager.t-s.by//uploads/flats/981185/flats/981185-3.jpg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-05-06T17:44:09+0300",
+      "last_time_up": "2020-08-24T15:37:09+0300",
+      "up_available_in": 69907,
+      "url": "https://r.onliner.by/pk/apartments/354338",
+      "auction_bid": null
+    },
+    {
+      "id": 386173,
+      "author_id": 1618172,
+      "location": {
+        "address": "Беларусь, г. Минск, Славинского ул., 35",
+        "user_address": "Славинского ул., 35",
+        "latitude": 53.937241,
+        "longitude": 27.637962
+      },
+      "price": {
+        "amount": "56500.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "147058.20",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "56500.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 2,
+      "number_of_floors": 5,
+      "area": {
+        "total": 39.4,
+        "living": 23.7,
+        "kitchen": 6.2
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/1618172/600x400/f6eef0bf9e323e769ff52a6f712ba790.jpeg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-08-20T18:00:30+0300",
+      "last_time_up": "2020-08-24T15:14:17+0300",
+      "up_available_in": 68535,
+      "url": "https://r.onliner.by/pk/apartments/386173",
+      "auction_bid": null
+    },
+    {
+      "id": 120291,
+      "author_id": 1847685,
+      "location": {
+        "address": "Минск, улица Калиновского, 30",
+        "user_address": "Минск, улица Калиновского, 30",
+        "latitude": 53.941437,
+        "longitude": 27.639563
+      },
+      "price": {
+        "amount": "71900.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "187141.32",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "71900.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 3,
+      "floor": 3,
+      "number_of_floors": 5,
+      "area": {
+        "total": 50,
+        "living": 34.5,
+        "kitchen": 6.2
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/1847685/600x400/7ca266c930610603ff1c34c4c881cb57.jpeg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2017-01-18T13:24:38+0300",
+      "last_time_up": "2020-08-24T14:20:32+0300",
+      "up_available_in": 65310,
+      "url": "https://r.onliner.by/pk/apartments/120291",
+      "auction_bid": null
+    },
+    {
+      "id": 268369,
+      "author_id": 1847685,
+      "location": {
+        "address": "Минск, Независимости просп. 145",
+        "user_address": "Минск, Независимости просп. 145",
+        "latitude": 53.935001,
+        "longitude": 27.6485
+      },
+      "price": {
+        "amount": "89900.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "233991.72",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "89900.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 3,
+      "floor": 7,
+      "number_of_floors": 9,
+      "area": {
+        "total": 67.1,
+        "living": 44,
+        "kitchen": 7
+      },
+      "photo": "https://static.realt.by/user/7d/3/site1qlz537d/5efd0022ca4fd957.jpg?1556351137",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2019-04-27T10:59:04+0300",
+      "last_time_up": "2020-08-24T14:20:11+0300",
+      "up_available_in": 65289,
+      "url": "https://r.onliner.by/pk/apartments/268369",
+      "auction_bid": null
+    },
+    {
+      "id": 352482,
+      "author_id": 1847685,
+      "location": {
+        "address": "Минск, проспект Независимости, 135",
+        "user_address": "Минск, проспект Независимости, 135",
+        "latitude": 53.934452,
+        "longitude": 27.644766
+      },
+      "price": {
+        "amount": "57900.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "150702.12",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "57900.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 1,
+      "number_of_floors": 5,
+      "area": {
+        "total": 39,
+        "living": 23.6,
+        "kitchen": 6.1
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/1847685/600x400/8e28476c277fae0b5527d08d652a7d81.jpeg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-04-29T11:53:35+0300",
+      "last_time_up": "2020-08-24T14:19:42+0300",
+      "up_available_in": 65260,
+      "url": "https://r.onliner.by/pk/apartments/352482",
+      "auction_bid": null
+    },
+    {
+      "id": 365567,
+      "author_id": 2119680,
+      "location": {
+        "address": "Беларусь, Минск, Калиновского ул., 79",
+        "user_address": "Минск, Калиновского ул., 79",
+        "latitude": 53.945843,
+        "longitude": 27.63578
+      },
+      "price": {
+        "amount": "59700.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "155387.16",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "59700.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 5,
+      "number_of_floors": 5,
+      "area": {
+        "total": 46.9,
+        "living": 31.6,
+        "kitchen": 6.2
+      },
+      "photo": "https://catalog.pakodan.by/assets/cache_image/assets/userfiles/priv/modresource/9342/7af11b743cd0c534c5dcba43b9d7c01c30608b4d.rzcz_1800x0_846.jpg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-06-13T00:21:36+0300",
+      "last_time_up": "2020-08-24T14:00:19+0300",
+      "up_available_in": 64097,
+      "url": "https://r.onliner.by/pk/apartments/365567",
+      "auction_bid": null
+    },
+    {
+      "id": 348722,
+      "author_id": 1769459,
+      "location": {
+        "address": "Минск, Славинского ул. 17",
+        "user_address": "Минск, Славинского ул. 17",
+        "latitude": 53.938801,
+        "longitude": 27.635099
+      },
+      "price": {
+        "amount": "64900.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "168921.72",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "64900.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 5,
+      "number_of_floors": 9,
+      "area": {
+        "total": 46.7,
+        "living": 28.3,
+        "kitchen": 7.2
+      },
+      "photo": "https://static.realt.by/user/14/m/site18q6om14/7fcdda81b7ba1374.jpg?1586779911",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-04-13T23:13:04+0300",
+      "last_time_up": "2020-08-24T13:55:20+0300",
+      "up_available_in": 63798,
+      "url": "https://r.onliner.by/pk/apartments/348722",
+      "auction_bid": null
+    },
+    {
+      "id": 281528,
+      "author_id": 2460063,
+      "location": {
+        "address": "Минск, Калиновского ул. 44",
+        "user_address": "Минск, Калиновского ул. 44",
+        "latitude": 53.940903,
+        "longitude": 27.645329
+      },
+      "price": {
+        "amount": "54000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "140551.20",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "54000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 4,
+      "number_of_floors": 5,
+      "area": {
+        "total": 38.3,
+        "living": 23.6,
+        "kitchen": 6.1
+      },
+      "photo": "https://static.realt.by/user/25/5/site1uqge525/ac2e68a2ddc8813d.jpg?1563277501",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2019-07-16T14:48:05+0300",
+      "last_time_up": "2020-08-24T12:22:18+0300",
+      "up_available_in": 58216,
+      "url": "https://r.onliner.by/pk/apartments/281528",
+      "auction_bid": null
+    },
+    {
+      "id": 369159,
+      "author_id": 2460063,
+      "location": {
+        "address": "Минск, Калиновского ул. 74к1",
+        "user_address": "Минск, Калиновского ул. 74к1",
+        "latitude": 53.938114,
+        "longitude": 27.652525
+      },
+      "price": {
+        "amount": "73000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "190004.40",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "73000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 4,
+      "number_of_floors": 9,
+      "area": {
+        "total": 48.6,
+        "living": 30.8,
+        "kitchen": 7.1
+      },
+      "photo": "https://static.realt.by/user/bl/d/site1cjdadbl/7ea9010156fd9c99.jpg?1593179773",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-06-26T16:57:04+0300",
+      "last_time_up": "2020-08-24T12:18:41+0300",
+      "up_available_in": 57999,
+      "url": "https://r.onliner.by/pk/apartments/369159",
+      "auction_bid": null
+    },
+    {
+      "id": 370262,
+      "author_id": 1798826,
+      "location": {
+        "address": "Минск, Калиновского ул. 107",
+        "user_address": "Минск, Калиновского ул. 107",
+        "latitude": 53.943401,
+        "longitude": 27.6413
+      },
+      "price": {
+        "amount": "54200.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "141071.76",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "54200.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 2,
+      "number_of_floors": 5,
+      "area": {
+        "total": 41.7,
+        "living": 25,
+        "kitchen": 6.2
+      },
+      "photo": "https://static.realt.by/user/87/8/003116cae887/cae6b25dc5b71081.jpg?1593601555",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-07-01T14:06:03+0300",
+      "last_time_up": "2020-08-24T12:18:05+0300",
+      "up_available_in": 57963,
+      "url": "https://r.onliner.by/pk/apartments/370262",
+      "auction_bid": null
+    },
+    {
+      "id": 374755,
+      "author_id": 2092787,
+      "location": {
+        "address": "Минск, Независимости просп. 149",
+        "user_address": "Минск, Независимости просп. 149",
+        "latitude": 53.936283,
+        "longitude": 27.649261
+      },
+      "price": {
+        "amount": "75000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "195210.00",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "75000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 3,
+      "floor": 3,
+      "number_of_floors": 5,
+      "area": {
+        "total": 51.6,
+        "living": 33.8,
+        "kitchen": 6.1
+      },
+      "photo": "https://static.realt.by/user/j2/q/site1dlp2qj2/094eb5b382763859.jpg?1594968138",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-07-17T09:48:02+0300",
+      "last_time_up": "2020-08-24T11:45:00+0300",
+      "up_available_in": 55978,
+      "url": "https://r.onliner.by/pk/apartments/374755",
+      "auction_bid": null
+    },
+    {
+      "id": 384637,
+      "author_id": 2092787,
+      "location": {
+        "address": "Минск, Калиновского ул. 97",
+        "user_address": "Минск, Калиновского ул. 97",
+        "latitude": 53.944904,
+        "longitude": 27.640265
+      },
+      "price": {
+        "amount": "42000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "109317.60",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "42000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 1,
+      "floor": 1,
+      "number_of_floors": 5,
+      "area": {
+        "total": 32.7,
+        "living": 17.2,
+        "kitchen": 6.1
+      },
+      "photo": "https://static.realt.by/user/5y/q/site1f1l3q5y/20d345f42740246f.jpg?1597388993",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-08-14T10:12:04+0300",
+      "last_time_up": "2020-08-24T11:44:24+0300",
+      "up_available_in": 55942,
+      "url": "https://r.onliner.by/pk/apartments/384637",
+      "auction_bid": null
+    },
+    {
+      "id": 385734,
+      "author_id": 2117450,
+      "location": {
+        "address": "Минск, Калиновского ул. 73",
+        "user_address": "Минск, Калиновского ул. 73",
+        "latitude": 53.945702,
+        "longitude": 27.634501
+      },
+      "price": {
+        "amount": "43500.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "113221.80",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "43500.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 1,
+      "floor": 1,
+      "number_of_floors": 5,
+      "area": {
+        "total": 32.5,
+        "living": 17.2,
+        "kitchen": 6.2
+      },
+      "photo": "https://static.realt.by/user/pr/0/site1fbcp0pr/626baa3525470973.jpg?1597915584",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-08-19T16:51:02+0300",
+      "last_time_up": "2020-08-24T11:28:04+0300",
+      "up_available_in": 54962,
+      "url": "https://r.onliner.by/pk/apartments/385734",
+      "auction_bid": null
+    },
+    {
+      "id": 384090,
+      "author_id": 2539064,
+      "location": {
+        "address": "Минск, Независимости просп. 141к2",
+        "user_address": "Минск, Независимости просп. 141к2",
+        "latitude": 53.9366,
+        "longitude": 27.6478
+      },
+      "price": {
+        "amount": "61700.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "160592.76",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "61700.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 1,
+      "number_of_floors": 5,
+      "area": {
+        "total": 37.8,
+        "living": 23.6,
+        "kitchen": 6
+      },
+      "photo": "https://static.realt.by/user/y1/7/site1exxf7y1/4849239c1a16ede6.jpg?1597219544",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-08-12T11:21:03+0300",
+      "last_time_up": "2020-08-24T11:24:03+0300",
+      "up_available_in": 54721,
+      "url": "https://r.onliner.by/pk/apartments/384090",
+      "auction_bid": null
+    },
+    {
+      "id": 363247,
+      "author_id": 1674895,
+      "location": {
+        "address": "Минск, Независимости просп. 123к2",
+        "user_address": "Минск, Независимости просп. 123к2",
+        "latitude": 53.936401,
+        "longitude": 27.6422
+      },
+      "price": {
+        "amount": "89900.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "233991.72",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "89900.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 3,
+      "floor": 6,
+      "number_of_floors": 14,
+      "area": {
+        "total": 70,
+        "living": 44,
+        "kitchen": 8.8
+      },
+      "photo": "https://static.realt.by/user/ia/4/site1beku4ia/0e2d25a8ab538893.jpg?1592554426",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-06-04T16:24:03+0300",
+      "last_time_up": "2020-08-24T11:09:09+0300",
+      "up_available_in": 53827,
+      "url": "https://r.onliner.by/pk/apartments/363247",
+      "auction_bid": null
+    },
+    {
+      "id": 373482,
+      "author_id": 1674895,
+      "location": {
+        "address": "Минск, Калиновского ул. 48к1",
+        "user_address": "Минск, Калиновского ул. 48к1",
+        "latitude": 53.940399,
+        "longitude": 27.645901
+      },
+      "price": {
+        "amount": "62900.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "163716.12",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "62900.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 2,
+      "number_of_floors": 10,
+      "area": {
+        "total": 49.3,
+        "living": 27.7,
+        "kitchen": 7.1
+      },
+      "photo": "https://static.realt.by/user/88/3/site1dex6388/18dd277e25d929bd.jpg?1594651933",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-07-13T17:57:04+0300",
+      "last_time_up": "2020-08-24T11:09:05+0300",
+      "up_available_in": 53823,
+      "url": "https://r.onliner.by/pk/apartments/373482",
+      "auction_bid": null
+    },
+    {
+      "id": 386094,
+      "author_id": 2119680,
+      "location": {
+        "address": "Беларусь, Минск, Славинского ул., 35",
+        "user_address": "Минск, Славинского ул., 35",
+        "latitude": 53.937241,
+        "longitude": 27.637962
+      },
+      "price": {
+        "amount": "75500.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "196511.40",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "75500.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 4,
+      "floor": 3,
+      "number_of_floors": 5,
+      "area": {
+        "total": 58.5,
+        "living": 41.8,
+        "kitchen": 6.2
+      },
+      "photo": "https://catalog.pakodan.by/assets/cache_image/assets/userfiles/priv/modresource/9614/2029fe6e809ab86d415041979533e9e38c1400d4.p3iz_1800x0_846.jpg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-08-20T15:55:50+0300",
+      "last_time_up": "2020-08-24T11:03:09+0300",
+      "up_available_in": 53467,
+      "url": "https://r.onliner.by/pk/apartments/386094",
+      "auction_bid": null
+    },
+    {
+      "id": 370230,
+      "author_id": 692923,
+      "location": {
+        "address": "Минск, проспект Независимости, 147 к1",
+        "user_address": "Минск, пр. Независимости, 147/1",
+        "latitude": 53.935532,
+        "longitude": 27.648495
+      },
+      "price": {
+        "amount": "79000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "205621.20",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "79000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 3,
+      "floor": 3,
+      "number_of_floors": 5,
+      "area": {
+        "total": 61.4,
+        "living": 45.9,
+        "kitchen": 6.2
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/692923/600x400/b39fcaae0e2bbd00a17c69a496a6a975.jpeg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-07-01T13:30:03+0300",
+      "last_time_up": "2020-08-24T11:01:08+0300",
+      "up_available_in": 53346,
+      "url": "https://r.onliner.by/pk/apartments/370230",
+      "auction_bid": null
+    },
+    {
+      "id": 349588,
+      "author_id": 1813425,
+      "location": {
+        "address": "Минск, улица Славинского, 29",
+        "user_address": "Минск, улица Славинского, 29",
+        "latitude": 53.937164,
+        "longitude": 27.636873
+      },
+      "price": {
+        "amount": "68000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "176990.40",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "68000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 8,
+      "number_of_floors": 9,
+      "area": {
+        "total": 49,
+        "living": 28,
+        "kitchen": 7.2
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/1813425/600x400/5269dc7ffb4e693a1e23eabefac8d6bb.jpeg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-04-16T13:04:12+0300",
+      "last_time_up": "2020-08-24T10:49:12+0300",
+      "up_available_in": 52630,
+      "url": "https://r.onliner.by/pk/apartments/349588",
+      "auction_bid": null
+    },
+    {
+      "id": 351739,
+      "author_id": 2175766,
+      "location": {
+        "address": "Минск, улица Славинского, 9",
+        "user_address": "Минск, улица Славинского, 9",
+        "latitude": 53.940418,
+        "longitude": 27.633289
+      },
+      "price": {
+        "amount": "55000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "143154.00",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "55000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 1,
+      "number_of_floors": 9,
+      "area": {
+        "total": 41.1,
+        "living": 21.3,
+        "kitchen": 7.1
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/2175766/600x400/35946ebaaf65fac5d9f7dd6ed5b4b6be.png",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-04-24T18:51:39+0300",
+      "last_time_up": "2020-08-24T10:12:21+0300",
+      "up_available_in": 50419,
+      "url": "https://r.onliner.by/pk/apartments/351739",
+      "auction_bid": null
+    },
+    {
+      "id": 380417,
+      "author_id": 1608827,
+      "location": {
+        "address": "",
+        "user_address": "Независимости просп., 127",
+        "latitude": 53.934551,
+        "longitude": 27.642805
+      },
+      "price": {
+        "amount": "74999.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "195207.40",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "74999.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 7,
+      "number_of_floors": 9,
+      "area": {
+        "total": 46.4,
+        "living": 28.2,
+        "kitchen": 7.1
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/1608827/600x400/817346ef383a5996e3adee2fd3018cc7.jpeg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-07-27T22:01:16+0300",
+      "last_time_up": "2020-08-24T10:10:05+0300",
+      "up_available_in": 50283,
+      "url": "https://r.onliner.by/pk/apartments/380417",
+      "auction_bid": null
+    },
+    {
+      "id": 386176,
+      "author_id": 1869120,
+      "location": {
+        "address": "Минск, Независимости просп. 133",
+        "user_address": "Минск, Независимости просп. 133",
+        "latitude": 53.933899,
+        "longitude": 27.644699
+      },
+      "price": {
+        "amount": "95000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "247266.00",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "95000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 3,
+      "floor": 4,
+      "number_of_floors": 9,
+      "area": {
+        "total": 67,
+        "living": 41,
+        "kitchen": null
+      },
+      "photo": "https://static.realt.by/user/xt/7/site1fdac7xt/9b079a2c6eb94685.jpg?1597935467",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-08-20T18:07:03+0300",
+      "last_time_up": "2020-08-24T09:36:03+0300",
+      "up_available_in": 48241,
+      "url": "https://r.onliner.by/pk/apartments/386176",
+      "auction_bid": null
+    },
+    {
+      "id": 338933,
+      "author_id": 2264648,
+      "location": {
+        "address": "Минск, Калиновского ул. 52",
+        "user_address": "Минск, Калиновского ул. 52",
+        "latitude": 53.939499,
+        "longitude": 27.646799
+      },
+      "price": {
+        "amount": "72000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "187401.60",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "72000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 3,
+      "floor": 5,
+      "number_of_floors": 5,
+      "area": {
+        "total": 58.7,
+        "living": 35,
+        "kitchen": 14
+      },
+      "photo": "https://static.realt.by/user/ho/3/site174v03ho/935b8c1d4fcc1efe.jpg?1584105761",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-03-13T16:23:03+0300",
+      "last_time_up": "2020-08-24T09:34:44+0300",
+      "up_available_in": 48162,
+      "url": "https://r.onliner.by/pk/apartments/338933",
+      "auction_bid": null
+    },
+    {
+      "id": 347722,
+      "author_id": 1812636,
+      "location": {
+        "address": "Беларусь, Минск, ул. Калиновского, 18",
+        "user_address": "Калиновского, 18",
+        "latitude": 53.942402,
+        "longitude": 27.635916
+      },
+      "price": {
+        "amount": "44700.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "116345.16",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "44700.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 1,
+      "floor": 1,
+      "number_of_floors": 5,
+      "area": {
+        "total": 32.4,
+        "living": 17.2,
+        "kitchen": 6.1
+      },
+      "photo": "https://m2.by/import_images/633166_01.jpg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-04-10T01:43:03+0300",
+      "last_time_up": "2020-08-24T09:27:40+0300",
+      "up_available_in": 47738,
+      "url": "https://r.onliner.by/pk/apartments/347722",
+      "auction_bid": null
+    },
+    {
+      "id": 382813,
+      "author_id": 1812636,
+      "location": {
+        "address": "Беларусь, Минск, ул. Калиновского, 32",
+        "user_address": "Калиновского, 32",
+        "latitude": 53.941814,
+        "longitude": 27.640083
+      },
+      "price": {
+        "amount": "54700.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "142373.16",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "54700.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 4,
+      "number_of_floors": 5,
+      "area": {
+        "total": 38.5,
+        "living": 23.7,
+        "kitchen": 6.2
+      },
+      "photo": "https://m2.by/import_images/884480_01.jpg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-08-04T19:29:02+0300",
+      "last_time_up": "2020-08-24T09:25:50+0300",
+      "up_available_in": 47628,
+      "url": "https://r.onliner.by/pk/apartments/382813",
+      "auction_bid": null
+    },
+    {
+      "id": 370921,
+      "author_id": 1608827,
+      "location": {
+        "address": "",
+        "user_address": "Калиновского ул., 82/2",
+        "latitude": 53.9361,
+        "longitude": 27.654528
+      },
+      "price": {
+        "amount": "66499.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "173083.60",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "66499.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 1,
+      "floor": 14,
+      "number_of_floors": 16,
+      "area": {
+        "total": 39,
+        "living": 17,
+        "kitchen": 9
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/1608827/600x400/45a71c89bfad9964c0442d8ff6d24728.jpeg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-07-03T16:41:11+0300",
+      "last_time_up": "2020-08-23T21:41:09+0300",
+      "up_available_in": 5347,
+      "url": "https://r.onliner.by/pk/apartments/370921",
+      "auction_bid": null
+    },
+    {
+      "id": 346286,
+      "author_id": 1608827,
+      "location": {
+        "address": "",
+        "user_address": "Калиновского ул., 54/2",
+        "latitude": 53.940922,
+        "longitude": 27.650791
+      },
+      "price": {
+        "amount": "94900.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "247005.72",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "94900.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 3,
+      "floor": 17,
+      "number_of_floors": 18,
+      "area": {
+        "total": 66.9,
+        "living": 45.6,
+        "kitchen": 8.1
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/1608827/600x400/63f4d0f92a8f74f9d75d3fb0cceb9515.jpeg",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-04-05T20:00:37+0300",
+      "last_time_up": "2020-08-23T09:10:03+0300",
+      "up_available_in": 0,
+      "url": "https://r.onliner.by/pk/apartments/346286",
+      "auction_bid": null
+    },
+    {
+      "id": 350649,
+      "author_id": 240032,
+      "location": {
+        "address": "Минск, улица Калиновского, 91",
+        "user_address": "Минск, улица Калиновского, 91",
+        "latitude": 53.944714,
+        "longitude": 27.638762
+      },
+      "price": {
+        "amount": "46000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "119728.80",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "46000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 1,
+      "floor": 1,
+      "number_of_floors": 5,
+      "area": {
+        "total": 32.6,
+        "living": 17.5,
+        "kitchen": 6.1
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/240032/600x400/656d1bea05c9528fac19666b5a72bc95.jpeg",
+      "seller": {
+        "type": "owner"
+      },
+      "created_at": "2020-04-21T10:46:05+0300",
+      "last_time_up": "2020-08-22T22:35:15+0300",
+      "up_available_in": 0,
+      "url": "https://r.onliner.by/pk/apartments/350649",
+      "auction_bid": null
+    },
+    {
+      "id": 386517,
+      "author_id": 3108767,
+      "location": {
+        "address": "Минск, проспект Независимости, 137 к1",
+        "user_address": "минск, независимости 137/1",
+        "latitude": 53.936165,
+        "longitude": 27.645081
+      },
+      "price": {
+        "amount": "119000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "309733.20",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "119000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 1,
+      "floor": 1,
+      "number_of_floors": 9,
+      "area": {
+        "total": 87.4,
+        "living": 62.3,
+        "kitchen": 7.1
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/3108767/600x400/b81c8a452934e6c191f23e87af16a65a.png",
+      "seller": {
+        "type": "owner"
+      },
+      "created_at": "2020-08-22T21:43:12+0300",
+      "last_time_up": "2020-08-22T21:43:12+0300",
+      "up_available_in": 0,
+      "url": "https://r.onliner.by/pk/apartments/386517",
+      "auction_bid": null
+    },
+    {
+      "id": 379425,
+      "author_id": 423991,
+      "location": {
+        "address": "Минск, улица Славинского, 17",
+        "user_address": "Минск, улица Славинского, 17",
+        "latitude": 53.938793,
+        "longitude": 27.635109
+      },
+      "price": {
+        "amount": "48000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "124934.40",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "48000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 1,
+      "floor": 4,
+      "number_of_floors": 9,
+      "area": {
+        "total": 33.1,
+        "living": 17,
+        "kitchen": 7.1
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/423991/600x400/1fcb4ed4c6b508b1ed9b2ade8b195b87.jpeg",
+      "seller": {
+        "type": "owner"
+      },
+      "created_at": "2020-07-23T19:21:19+0300",
+      "last_time_up": "2020-08-21T19:29:34+0300",
+      "up_available_in": 0,
+      "url": "https://r.onliner.by/pk/apartments/379425",
+      "auction_bid": null
+    },
+    {
+      "id": 329923,
+      "author_id": 1869120,
+      "location": {
+        "address": "Минск, Славинского ул. 43",
+        "user_address": "Минск, Славинского ул. 43",
+        "latitude": 53.9394,
+        "longitude": 27.6411
+      },
+      "price": {
+        "amount": "114900.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "299061.72",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "114900.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 4,
+      "floor": 3,
+      "number_of_floors": 16,
+      "area": {
+        "total": 90,
+        "living": 60,
+        "kitchen": 9
+      },
+      "photo": "https://static.realt.by/user/rc/b/site15nkvbrc/4e229b4c57c3e93b.jpg?1581619262",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-02-13T22:29:03+0300",
+      "last_time_up": "2020-08-17T12:26:03+0300",
+      "up_available_in": 0,
+      "url": "https://r.onliner.by/pk/apartments/329923",
+      "auction_bid": null
+    },
+    {
+      "id": 383453,
+      "author_id": 1708337,
+      "location": {
+        "address": "Беларусь, Минск, Независимости просп., 151 ,2",
+        "user_address": "Независимости просп., 151 ,2",
+        "latitude": 53.9375,
+        "longitude": 27.647499
+      },
+      "price": {
+        "amount": "85000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "221238.00",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "85000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 3,
+      "floor": 2,
+      "number_of_floors": 14,
+      "area": {
+        "total": 66.9,
+        "living": 43.6,
+        "kitchen": 9.1
+      },
+      "photo": "https://manager.t-s.by//uploads/flats/981762/flats/981762-1.JPG",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-08-06T15:57:00+0300",
+      "last_time_up": "2020-08-17T12:21:16+0300",
+      "up_available_in": 0,
+      "url": "https://r.onliner.by/pk/apartments/383453",
+      "auction_bid": null
+    },
+    {
+      "id": 232893,
+      "author_id": 1483208,
+      "location": {
+        "address": "Минск, проспект Независимости, 151 к1",
+        "user_address": "Минск, проспект Независимости, 151 к1",
+        "latitude": 53.937023,
+        "longitude": 27.648849
+      },
+      "price": {
+        "amount": "68900.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "179332.92",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "68900.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 8,
+      "number_of_floors": 9,
+      "area": {
+        "total": 46.7,
+        "living": 28.2,
+        "kitchen": 7.1
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/1483208/600x400/2ecacf2c419b7a5eff439c05b93d6e61.jpeg",
+      "seller": {
+        "type": "owner"
+      },
+      "created_at": "2018-12-12T13:39:22+0300",
+      "last_time_up": "2020-08-12T11:29:15+0300",
+      "up_available_in": 0,
+      "url": "https://r.onliner.by/pk/apartments/232893",
+      "auction_bid": null
+    },
+    {
+      "id": 383107,
+      "author_id": 470785,
+      "location": {
+        "address": "Минск, улица Славинского",
+        "user_address": "Минск, улица Славинского",
+        "latitude": 53.940296,
+        "longitude": 27.632412
+      },
+      "price": {
+        "amount": "71000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "184798.80",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "71000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 9,
+      "number_of_floors": 9,
+      "area": {
+        "total": 49,
+        "living": 32,
+        "kitchen": 7
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/470785/600x400/f83a5cf70cdf58ebb67b3655a1cf8311.jpeg",
+      "seller": {
+        "type": "owner"
+      },
+      "created_at": "2020-08-05T18:11:12+0300",
+      "last_time_up": "2020-08-05T18:11:12+0300",
+      "up_available_in": 0,
+      "url": "https://r.onliner.by/pk/apartments/383107",
+      "auction_bid": null
+    },
+    {
+      "id": 370056,
+      "author_id": 1725449,
+      "location": {
+        "address": "Минск, проспект Независимости, 141 к1",
+        "user_address": "страна Беларусь,Минск, проспект Независимости 141/1",
+        "latitude": 53.935413,
+        "longitude": 27.646687
+      },
+      "price": {
+        "amount": "62500.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "162675.00",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "62500.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 1,
+      "number_of_floors": 5,
+      "area": {
+        "total": 38.4,
+        "living": 23.5,
+        "kitchen": 6.1
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/1725449/600x400/bce6aeaae522e7574df0f3aef79c9dcb.jpeg",
+      "seller": {
+        "type": "owner"
+      },
+      "created_at": "2020-06-30T19:12:33+0300",
+      "last_time_up": "2020-07-29T23:28:03+0300",
+      "up_available_in": 0,
+      "url": "https://r.onliner.by/pk/apartments/370056",
+      "auction_bid": null
+    },
+    {
+      "id": 355696,
+      "author_id": 1175332,
+      "location": {
+        "address": "Минск, проспект Независимости, 145",
+        "user_address": "пр. Независимости, 145",
+        "latitude": 53.934994,
+        "longitude": 27.649197
+      },
+      "price": {
+        "amount": "78000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "203018.40",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "78000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 7,
+      "number_of_floors": 9,
+      "area": {
+        "total": 48,
+        "living": 28,
+        "kitchen": 7
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/1175332/600x400/b15a2d630661dd43a90a9f3039c8fa7e.jpeg",
+      "seller": {
+        "type": "owner"
+      },
+      "created_at": "2020-05-12T13:50:01+0300",
+      "last_time_up": "2020-07-25T18:35:54+0300",
+      "up_available_in": 0,
+      "url": "https://r.onliner.by/pk/apartments/355696",
+      "auction_bid": null
+    },
+    {
+      "id": 379808,
+      "author_id": 1507045,
+      "location": {
+        "address": "Минск, улица Калиновского, 70",
+        "user_address": "Минск, улица Калиновского, 70",
+        "latitude": 53.939949,
+        "longitude": 27.653381
+      },
+      "price": {
+        "amount": "62800.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "163455.84",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "62800.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 2,
+      "number_of_floors": 9,
+      "area": {
+        "total": 41.8,
+        "living": 22.6,
+        "kitchen": 7.1
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/1507045/600x400/aff929b1c0c3f6f7be5ed969fda2cf3c.jpeg",
+      "seller": {
+        "type": "owner"
+      },
+      "created_at": "2020-07-25T14:12:18+0300",
+      "last_time_up": "2020-07-25T14:12:18+0300",
+      "up_available_in": 0,
+      "url": "https://r.onliner.by/pk/apartments/379808",
+      "auction_bid": null
+    },
+    {
+      "id": 362857,
+      "author_id": 1708337,
+      "location": {
+        "address": "Беларусь, Минск, Калиновского ул., 67",
+        "user_address": "Калиновского ул., 67",
+        "latitude": 53.945702,
+        "longitude": 27.632601
+      },
+      "price": {
+        "amount": "58000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "150962.40",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "58000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 2,
+      "number_of_floors": 9,
+      "area": {
+        "total": 45,
+        "living": 25.4,
+        "kitchen": 8.4
+      },
+      "photo": "https://manager.t-s.by//uploads/flats/981341/flats/981341-1.JPG",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-06-03T17:22:47+0300",
+      "last_time_up": "2020-07-24T09:45:45+0300",
+      "up_available_in": 0,
+      "url": "https://r.onliner.by/pk/apartments/362857",
+      "auction_bid": null
+    },
+    {
+      "id": 356404,
+      "author_id": 307897,
+      "location": {
+        "address": "Минск, улица Калиновского, 83",
+        "user_address": "Минск, улица Калиновского, 83",
+        "latitude": 53.944813,
+        "longitude": 27.637793
+      },
+      "price": {
+        "amount": "59000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "153565.20",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "59000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 3,
+      "floor": 1,
+      "number_of_floors": 5,
+      "area": {
+        "total": 49.3,
+        "living": 34.1,
+        "kitchen": 6.2
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/307897/600x400/af9411febb4103dff2adcc12a2f6e947.jpeg",
+      "seller": {
+        "type": "owner"
+      },
+      "created_at": "2020-05-14T17:45:50+0300",
+      "last_time_up": "2020-07-14T09:04:50+0300",
+      "up_available_in": 0,
+      "url": "https://r.onliner.by/pk/apartments/356404",
+      "auction_bid": null
+    },
+    {
+      "id": 353210,
+      "author_id": 368385,
+      "location": {
+        "address": "Минск, улица Калиновского, 91",
+        "user_address": "Минск, улица Калиновского, 91",
+        "latitude": 53.944714,
+        "longitude": 27.638762
+      },
+      "price": {
+        "amount": "73500.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "191305.80",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "73500.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 3,
+      "floor": 1,
+      "number_of_floors": 5,
+      "area": {
+        "total": 58,
+        "living": 41.8,
+        "kitchen": null
+      },
+      "photo": "https://content.onliner.by/apartment_for_sale/368385/600x400/fffd613a8cd52e0d71bba802d84f7f0e.jpeg",
+      "seller": {
+        "type": "owner"
+      },
+      "created_at": "2020-05-01T16:09:26+0300",
+      "last_time_up": "2020-07-04T19:44:58+0300",
+      "up_available_in": 0,
+      "url": "https://r.onliner.by/pk/apartments/353210",
+      "auction_bid": null
+    },
+    {
+      "id": 357517,
+      "author_id": 1708337,
+      "location": {
+        "address": "Беларусь, Минск, Калиновского ул., 80",
+        "user_address": "Калиновского ул., 80",
+        "latitude": 53.936501,
+        "longitude": 27.652201
+      },
+      "price": {
+        "amount": "65000.00",
+        "currency": "USD",
+        "converted": {
+          "BYN": {
+            "amount": "169182.00",
+            "currency": "BYN"
+          },
+          "USD": {
+            "amount": "65000.00",
+            "currency": "USD"
+          }
+        }
+      },
+      "resale": true,
+      "number_of_rooms": 2,
+      "floor": 3,
+      "number_of_floors": 5,
+      "area": {
+        "total": 49.5,
+        "living": 34.2,
+        "kitchen": 6.2
+      },
+      "photo": "https://manager.t-s.by//uploads/flats/981234/flats/981234-1.JPG",
+      "seller": {
+        "type": "agent"
+      },
+      "created_at": "2020-05-19T11:18:38+0300",
+      "last_time_up": "2020-06-23T17:45:34+0300",
+      "up_available_in": 0,
+      "url": "https://r.onliner.by/pk/apartments/357517",
+      "auction_bid": null
+    }
+  ],
+  "total": 59,
+  "page": {
+    "limit": 96,
+    "items": 59,
+    "current": 1,
+    "last": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 400088,
+  "author_id": 2183407,
+  "location": {
+    "address": "Беларусь, Минск, Калиновского ул., 30",
+    "user_address": "Беларусь, Минск, Калиновского ул., 30",
+    "latitude": 53.941166,
+    "longitude": 27.639427
+  },
+  "price": {
+    "amount": "69900.00",
+    "currency": "USD",
+    "converted": {
+      "BYN": {
+        "amount": "179761.83",
+        "currency": "BYN"
+      },
+      "USD": {
+        "amount": "69900.00",
+        "currency": "USD"
+      }
+    }
+  },
+  "resale": true,
+  "number_of_rooms": 3,
+  "floor": 2,
+  "number_of_floors": 5,
+  "area": {
+    "total": 61.6,
+    "living": 46.2,
+    "kitchen": 6.2
+  },
+  "photo": "https://content.onliner.by/apartment_for_sale/2183407/600x400/bedd1917f049a44b433706fc5eb34a23.jpeg",
+  "seller": {
+    "type": "agent"
+  },
+  "created_at": "2020-10-06T18:14:15+0300",
+  "last_time_up": "2020-10-15T12:00:25+0300",
+  "up_available_in": 220164,
+  "url": "https://r.onliner.by/pk/apartments/400088",
+  "auction_bid": null,
+  "priceHistory": [
+    {
+      "2020-10-15T19:51:01.032Z": "69900 USD"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 369159,
+  "author_id": 2460063,
+  "location": {
+    "address": "Минск, Калиновского ул. 74к1",
+    "user_address": "Минск, Калиновского ул. 74к1",
+    "latitude": 53.938114,
+    "longitude": 27.652525
+  },
+  "price": {
+    "amount": "73000.00",
+    "currency": "USD",
+    "converted": {
+      "BYN": {
+        "amount": "192741.90",
+        "currency": "BYN"
+      },
+      "USD": {
+        "amount": "73000.00",
+        "currency": "USD"
+      }
+    }
+  },
+  "resale": true,
+  "number_of_rooms": 2,
+  "floor": 4,
+  "number_of_floors": 9,
+  "area": {
+    "total": 48.6,
+    "living": 30.8,
+    "kitchen": 7.1
+  },
+  "photo": "https://static.realt.by/user/bl/d/site1cjdadbl/7ea9010156fd9c99.jpg?1593179773",
+  "seller": {
+    "type": "agent"
+  },
+  "created_at": "2020-06-26T16:57:04+0300",
+  "last_time_up": "2020-09-28T10:12:06+0300",
+  "up_available_in": 87989,
+  "url": "https://r.onliner.by/pk/apartments/369159",
+  "auction_bid": null,
+  "priceHistory": [
+    {
+      "2020-08-17T22:05:55.381Z": "73000 USD"
+    }
+  ]
+}

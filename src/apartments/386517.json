@@ -1,0 +1,47 @@
+{
+  "id": 386517,
+  "author_id": 3108767,
+  "location": {
+    "address": "Минск, проспект Независимости, 137 к1",
+    "user_address": "минск, независимости 137/1",
+    "latitude": 53.936165,
+    "longitude": 27.645081
+  },
+  "price": {
+    "amount": "119000.00",
+    "currency": "USD",
+    "converted": {
+      "BYN": {
+        "amount": "314862.10",
+        "currency": "BYN"
+      },
+      "USD": {
+        "amount": "119000.00",
+        "currency": "USD"
+      }
+    }
+  },
+  "resale": true,
+  "number_of_rooms": 4,
+  "floor": 1,
+  "number_of_floors": 9,
+  "area": {
+    "total": 87.4,
+    "living": 62.3,
+    "kitchen": 7.1
+  },
+  "photo": "https://content.onliner.by/apartment_for_sale/3108767/600x400/b81c8a452934e6c191f23e87af16a65a.png",
+  "seller": {
+    "type": "owner"
+  },
+  "created_at": "2020-08-22T21:43:12+0300",
+  "last_time_up": "2020-08-27T19:38:38+0300",
+  "up_available_in": 0,
+  "url": "https://r.onliner.by/pk/apartments/386517",
+  "auction_bid": null,
+  "priceHistory": [
+    {
+      "2020-08-26T17:12:01.075Z": "119000 USD"
+    }
+  ]
+}

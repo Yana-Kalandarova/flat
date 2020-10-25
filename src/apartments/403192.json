@@ -1,0 +1,47 @@
+{
+  "id": 403192,
+  "author_id": 1790292,
+  "location": {
+    "address": "Беларусь, Минск, Славинского ул., 9",
+    "user_address": "Беларусь, Минск, Славинского ул., 9",
+    "latitude": 53.940281,
+    "longitude": 27.633331
+  },
+  "price": {
+    "amount": "51000.00",
+    "currency": "USD",
+    "converted": {
+      "BYN": {
+        "amount": "131156.70",
+        "currency": "BYN"
+      },
+      "USD": {
+        "amount": "51000.00",
+        "currency": "USD"
+      }
+    }
+  },
+  "resale": true,
+  "number_of_rooms": 1,
+  "floor": 1,
+  "number_of_floors": 9,
+  "area": {
+    "total": 34.8,
+    "living": 16.9,
+    "kitchen": 7.1
+  },
+  "photo": "https://an7.by/upload/crm/48a8153654e1f3634b9dd2404c8d5f91_1602528475.jpg",
+  "seller": {
+    "type": "agent"
+  },
+  "created_at": "2020-10-15T16:48:47+0300",
+  "last_time_up": "2020-10-15T16:48:47+0300",
+  "up_available_in": 237466,
+  "url": "https://r.onliner.by/pk/apartments/403192",
+  "auction_bid": null,
+  "priceHistory": [
+    {
+      "2020-10-15T19:51:01.032Z": "51000 USD"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 370921,
+  "author_id": 1608827,
+  "location": {
+    "address": "",
+    "user_address": "Калиновского ул., 82/2",
+    "latitude": 53.936127,
+    "longitude": 27.65451
+  },
+  "price": {
+    "amount": "66499.00",
+    "currency": "USD",
+    "converted": {
+      "BYN": {
+        "amount": "171015.48",
+        "currency": "BYN"
+      },
+      "USD": {
+        "amount": "66499.00",
+        "currency": "USD"
+      }
+    }
+  },
+  "resale": true,
+  "number_of_rooms": 1,
+  "floor": 14,
+  "number_of_floors": 16,
+  "area": {
+    "total": 39,
+    "living": 17,
+    "kitchen": 9
+  },
+  "photo": "https://content.onliner.by/apartment_for_sale/1608827/600x400/45a71c89bfad9964c0442d8ff6d24728.jpeg",
+  "seller": {
+    "type": "agent"
+  },
+  "created_at": "2020-07-03T16:41:11+0300",
+  "last_time_up": "2020-10-14T09:10:15+0300",
+  "up_available_in": 123554,
+  "url": "https://r.onliner.by/pk/apartments/370921",
+  "auction_bid": null,
+  "priceHistory": [
+    {
+      "2020-08-17T22:05:55.381Z": "68499 USD"
+    },
+    {
+      "2020-08-26T17:12:01.075Z": "66499 USD"
+    }
+  ]
+}

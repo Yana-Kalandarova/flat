@@ -1,0 +1,50 @@
+{
+  "id": 392396,
+  "author_id": 1708337,
+  "location": {
+    "address": "Беларусь, Минск, Калиновского ул., 93",
+    "user_address": "Калиновского ул., 93",
+    "latitude": 53.944599,
+    "longitude": 27.6395
+  },
+  "price": {
+    "amount": "59900.00",
+    "currency": "USD",
+    "converted": {
+      "BYN": {
+        "amount": "154044.83",
+        "currency": "BYN"
+      },
+      "USD": {
+        "amount": "59900.00",
+        "currency": "USD"
+      }
+    }
+  },
+  "resale": true,
+  "number_of_rooms": 2,
+  "floor": 1,
+  "number_of_floors": 5,
+  "area": {
+    "total": 41.6,
+    "living": 24.7,
+    "kitchen": 6.2
+  },
+  "photo": "https://manager.t-s.by//uploads/flats/981882/flats/981882-1.JPG",
+  "seller": {
+    "type": "agent"
+  },
+  "created_at": "2020-09-10T19:06:09+0300",
+  "last_time_up": "2020-09-30T11:54:46+0300",
+  "up_available_in": 0,
+  "url": "https://r.onliner.by/pk/apartments/392396",
+  "auction_bid": null,
+  "priceHistory": [
+    {
+      "2020-09-15T06:48:33.152Z": "61500 USD"
+    },
+    {
+      "2020-10-15T19:51:01.032Z": "59900 USD"
+    }
+  ]
+}

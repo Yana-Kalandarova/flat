@@ -1,0 +1,47 @@
+{
+  "id": 232893,
+  "author_id": 1483208,
+  "location": {
+    "address": "Минск, проспект Независимости, 151 к1",
+    "user_address": "Минск, проспект Независимости, 151 к1",
+    "latitude": 53.937023,
+    "longitude": 27.648849
+  },
+  "price": {
+    "amount": "68900.00",
+    "currency": "USD",
+    "converted": {
+      "BYN": {
+        "amount": "177190.13",
+        "currency": "BYN"
+      },
+      "USD": {
+        "amount": "68900.00",
+        "currency": "USD"
+      }
+    }
+  },
+  "resale": true,
+  "number_of_rooms": 2,
+  "floor": 8,
+  "number_of_floors": 9,
+  "area": {
+    "total": 46.7,
+    "living": 28.2,
+    "kitchen": 7.1
+  },
+  "photo": "https://content.onliner.by/apartment_for_sale/1483208/600x400/2ecacf2c419b7a5eff439c05b93d6e61.jpeg",
+  "seller": {
+    "type": "owner"
+  },
+  "created_at": "2018-12-12T13:39:22+0300",
+  "last_time_up": "2020-08-12T11:29:15+0300",
+  "up_available_in": 0,
+  "url": "https://r.onliner.by/pk/apartments/232893",
+  "auction_bid": null,
+  "priceHistory": [
+    {
+      "2020-08-17T22:05:55.381Z": "68900 USD"
+    }
+  ]
+}

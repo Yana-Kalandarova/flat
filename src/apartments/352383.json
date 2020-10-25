@@ -1,0 +1,47 @@
+{
+  "id": 352383,
+  "author_id": 1183121,
+  "location": {
+    "address": "Минск, улица Кедышко, 26",
+    "user_address": "Минска,проспект Независимости,Кедышко,14-а",
+    "latitude": 53.934689,
+    "longitude": 27.633705
+  },
+  "price": {
+    "amount": "77700.00",
+    "currency": "USD",
+    "converted": {
+      "BYN": {
+        "amount": "199821.09",
+        "currency": "BYN"
+      },
+      "USD": {
+        "amount": "77700.00",
+        "currency": "USD"
+      }
+    }
+  },
+  "resale": true,
+  "number_of_rooms": 2,
+  "floor": 1,
+  "number_of_floors": 5,
+  "area": {
+    "total": 45,
+    "living": 38,
+    "kitchen": null
+  },
+  "photo": "https://content.onliner.by/apartment_for_sale/1183121/600x400/d5171790f218f1a3ee05571c1ef22b1b.jpeg",
+  "seller": {
+    "type": "owner"
+  },
+  "created_at": "2020-04-28T15:55:46+0300",
+  "last_time_up": "2020-10-15T17:41:48+0300",
+  "up_available_in": 240647,
+  "url": "https://r.onliner.by/pk/apartments/352383",
+  "auction_bid": null,
+  "priceHistory": [
+    {
+      "2020-08-17T22:05:55.381Z": "77700 USD"
+    }
+  ]
+}
