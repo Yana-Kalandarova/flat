@@ -1,0 +1,27 @@
+.apartment-item {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-bottom: 2px solid #eee;
+}
+
+.apartment-item--img {
+	width: 320px;
+	height: 320px;
+	display: block;
+}
+
+.apartment-item--info-item,
+.apartment-item--price-item {
+	display: flex
+}
+
+h3 {
+	text-transform: uppercase;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+dt {
+	padding-right: 5px;
+}
+

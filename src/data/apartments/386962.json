@@ -1,0 +1,47 @@
+{
+  "id": 386962,
+  "author_id": 1790292,
+  "location": {
+    "address": "Беларусь, Минск, Независимости просп., 149",
+    "user_address": "Беларусь, Минск, Независимости просп., 149",
+    "latitude": 53.936069,
+    "longitude": 27.649355
+  },
+  "price": {
+    "amount": "80000.00",
+    "currency": "USD",
+    "converted": {
+      "BYN": {
+        "amount": "203192.00",
+        "currency": "BYN"
+      },
+      "USD": {
+        "amount": "80000.00",
+        "currency": "USD"
+      }
+    }
+  },
+  "resale": true,
+  "number_of_rooms": 4,
+  "floor": 2,
+  "number_of_floors": 5,
+  "area": {
+    "total": 57.4,
+    "living": 41.2,
+    "kitchen": 6.1
+  },
+  "photo": "https://an7.by/upload/crm/6f1f6943b06cf42a8069b2f41f8df67f_1590679034.jpg",
+  "seller": {
+    "type": "agent"
+  },
+  "created_at": "2020-08-24T16:52:02+0300",
+  "last_time_up": "2020-10-23T11:05:15+0300",
+  "up_available_in": 76464,
+  "url": "https://r.onliner.by/pk/apartments/386962",
+  "auction_bid": null,
+  "priceHistory": [
+    {
+      "2020-08-26T17:12:01.075Z": "80000 USD"
+    }
+  ]
+}

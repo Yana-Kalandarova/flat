@@ -1,0 +1,47 @@
+{
+  "id": 403550,
+  "author_id": 2264648,
+  "location": {
+    "address": "Минск, Калиновского ул. 18",
+    "user_address": "Минск, Калиновского ул. 18",
+    "latitude": 53.942101,
+    "longitude": 27.6357
+  },
+  "price": {
+    "amount": "57000.00",
+    "currency": "USD",
+    "converted": {
+      "BYN": {
+        "amount": "144774.30",
+        "currency": "BYN"
+      },
+      "USD": {
+        "amount": "57000.00",
+        "currency": "USD"
+      }
+    }
+  },
+  "resale": true,
+  "number_of_rooms": 2,
+  "floor": 5,
+  "number_of_floors": 5,
+  "area": {
+    "total": 44.3,
+    "living": 28.7,
+    "kitchen": 6.2
+  },
+  "photo": "https://static.realt.by/user/ev/l/site1iap0lev/9ab306551e758eb9.jpg?1602853247",
+  "seller": {
+    "type": "agent"
+  },
+  "created_at": "2020-10-16T16:02:02+0300",
+  "last_time_up": "2020-10-23T09:28:31+0300",
+  "up_available_in": 70660,
+  "url": "https://r.onliner.by/pk/apartments/403550",
+  "auction_bid": null,
+  "priceHistory": [
+    {
+      "2020-10-25T10:02:07.052Z": "57000 USD"
+    }
+  ]
+}

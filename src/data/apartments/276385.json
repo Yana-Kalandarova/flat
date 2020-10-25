@@ -1,0 +1,47 @@
+{
+  "id": 276385,
+  "author_id": 1705026,
+  "location": {
+    "address": "Минск, улица Калиновского, 30",
+    "user_address": "Минск, улица Калиновского, 30",
+    "latitude": 53.941151,
+    "longitude": 27.639418
+  },
+  "price": {
+    "amount": "70000.00",
+    "currency": "USD",
+    "converted": {
+      "BYN": {
+        "amount": "177793.00",
+        "currency": "BYN"
+      },
+      "USD": {
+        "amount": "70000.00",
+        "currency": "USD"
+      }
+    }
+  },
+  "resale": true,
+  "number_of_rooms": 3,
+  "floor": 3,
+  "number_of_floors": 5,
+  "area": {
+    "total": 61.3,
+    "living": 46,
+    "kitchen": 6.2
+  },
+  "photo": "https://content.onliner.by/apartment_for_sale/1705026/600x400/6b5271a77e5c9bed9be231a28b2ed0f4.jpeg",
+  "seller": {
+    "type": "agent"
+  },
+  "created_at": "2019-06-17T16:48:02+0300",
+  "last_time_up": "2020-10-24T11:44:23+0300",
+  "up_available_in": 165212,
+  "url": "https://r.onliner.by/pk/apartments/276385",
+  "auction_bid": null,
+  "priceHistory": [
+    {
+      "2020-08-17T22:05:55.381Z": "70000 USD"
+    }
+  ]
+}
