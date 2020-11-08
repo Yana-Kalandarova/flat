@@ -13,7 +13,7 @@ const PriceHistory = ({historyList}) => (
 		<dl>
 			{
 				historyList.map((item, index) => {
-				const [date, price] = Object.entries(item)[0];
+				const [date, price] = item;
 				const formattedDate = getFormattedDate(date);
 
 				return (

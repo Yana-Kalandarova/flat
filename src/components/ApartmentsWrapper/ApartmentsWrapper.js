@@ -1,10 +1,9 @@
 import React, {Fragment, useState, useEffect} from 'react';
 
-import apartmentsResult from '../../data/apartments';
 import {ApartmentList, Menu} from '../../components';
-import {filterByRoomsAmount, handleUpdateApartmentsResult} from './helpers';
+import {getFullApartmentsList, filterByRoomsAmount, handleUpdateApartmentsResult} from './helpers';
 
-const fullApartmentList = Object.values(apartmentsResult);
+const fullApartmentList = getFullApartmentsList();
 
 const ApartmentsWrapper = () => {
 	const [apartmentList, setApartmentList] = useState(fullApartmentList);

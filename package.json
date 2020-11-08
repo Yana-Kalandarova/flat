@@ -20,7 +20,6 @@
     "server": "cd server && npm run start",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "getFlat": "node getFlats.js",
     "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run start\""
   },
   "eslintConfig": {
