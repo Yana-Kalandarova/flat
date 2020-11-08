@@ -1,5 +1,8 @@
+import apartmentsResult from '../../data/apartments';
 import {updateApartmentsResult} from '../../services';
 import {ROOMS_AMOUNT_MAP} from '../../constants';
+
+export const getFullApartmentsList = () => Array.from(new Map(apartmentsResult.value).values());
 
 export const handleUpdateApartmentsResult = async() => {
 	await updateApartmentsResult();

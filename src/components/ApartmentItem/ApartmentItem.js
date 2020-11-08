@@ -6,6 +6,7 @@ import {getApartmentInfoList} from './helpers';
 
 const propTypes = {
 	id: PropTypes.number.isRequired,
+	isActual: PropTypes.bool,
 	location: PropTypes.shape({
 		address: PropTypes.string.isRequired,
 	}).isRequired,
@@ -23,11 +24,16 @@ const propTypes = {
 		amount: PropTypes.string.isRequired,
 		currency: PropTypes.string.isRequired,
 	}).isRequired,
-	priceHistory: PropTypes.array.isRequired,
+	priceHistory: PropTypes.object.isRequired,
+};
+
+const defaultProps = {
+	isActual: false
 };
 
 const ApartmentItem = ({
 	id,
+	isActual,
 	location: {address},
 	area,
 	floor,
@@ -39,9 +45,10 @@ const ApartmentItem = ({
 	priceHistory,
 }) => {
 	const apartmentInfoList = getApartmentInfoList({address, price, url, area, number_of_rooms, floor, number_of_floors});
+	const priceHistoryList = priceHistory.value;
 
 	return (
-		<li key={id} className="row apartment-item">
+		<li key={id} className={`row apartment-item ${isActual ? 'apartment-item--actual' : 'apartment-item--deprecated'}`}>
 			<div className="col-auto">
 				<img src={photo} alt={address} className="apartment-item--img" />
 			</div>
@@ -49,12 +56,13 @@ const ApartmentItem = ({
 				<ApartmentInfo infoList={apartmentInfoList} />
 			</div>
 			<div className="col-auto">
-				<PriceHistory historyList={priceHistory} />
+				<PriceHistory historyList={priceHistoryList} />
 			</div>
 		</li>
 	);
 };
 
 ApartmentItem.propTypes = propTypes;
+ApartmentItem.defaultProps = defaultProps;
 
 export default ApartmentItem;
