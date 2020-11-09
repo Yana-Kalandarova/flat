@@ -1,13 +1,14 @@
 import React, {Fragment, useState, useEffect} from 'react';
 
 import {ApartmentList, Menu} from '../../components';
-import {getFullApartmentsList, filterByRoomsAmount, handleUpdateApartmentsResult} from './helpers';
+import {getFullApartmentsList, filterApartmentList, handleUpdateApartmentsResult} from './helpers';
 
 const fullApartmentList = getFullApartmentsList();
 
 const ApartmentsWrapper = () => {
 	const [apartmentList, setApartmentList] = useState(fullApartmentList);
 	const [roomsAmount, setRoomsAmount] = useState(null);
+	const [isShowSoldOutItems, setIsShowSoldOutItems] = useState(false);
 
 	const handleChangeRoomsAmount = ({target}) => {
 		const {value} = target;
@@ -15,18 +16,30 @@ const ApartmentsWrapper = () => {
 		setRoomsAmount(value);
 	};
 
+	const handleChangeShowSoldOut = ({target}) => {
+		const {checked} = target;
+
+		setIsShowSoldOutItems(checked);
+	};
+
 	useEffect(() => {
-		const updatedApartmentList = filterByRoomsAmount(fullApartmentList, roomsAmount);
+		const updatedApartmentList = filterApartmentList(
+			fullApartmentList,
+			{roomsAmount, isShowSoldOutItems}
+		);
 
 		setApartmentList(updatedApartmentList);
-	}, [roomsAmount]);
+	}, [isShowSoldOutItems, roomsAmount]);
 
 	const menuHandlers = {
 		handleUpdateApartmentsResult,
-		handleChangeRoomsAmount
+		handleChangeRoomsAmount,
+		handleChangeShowSoldOut,
 	};
+
 	const menuData = {
-		roomsAmount
+		isShowSoldOutItems,
+		roomsAmount,
 	};
 
 	return (

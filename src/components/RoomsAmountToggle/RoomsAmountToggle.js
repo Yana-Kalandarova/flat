@@ -6,10 +6,18 @@ import {ROOMS_AMOUNT_MAP} from '../../constants';
 
 const propTypes = {
 	handleChange: PropTypes.func.isRequired,
+	selectedValue: PropTypes.oneOfType([
+		PropTypes.string,
+		PropTypes.object
+	]),
 };
 
 const RoomsAmountToggle = ({handleChange, selectedValue}) => (
-	<Toggle list={ROOMS_AMOUNT_MAP} handleChange={handleChange} name="roomsAmount" selectedValue={selectedValue} />
+	<Toggle
+		list={ROOMS_AMOUNT_MAP}
+		handleChange={handleChange}
+		name="roomsAmount"
+		selectedValue={selectedValue} />
 );
 
 RoomsAmountToggle.propTypes = propTypes;
