@@ -8,15 +8,32 @@ export const handleUpdateApartmentsResult = async() => {
 	await updateApartmentsResult();
 };
 
-export const filterByRoomsAmount = (list, roomsAmount) => roomsAmount
-	? list.filter(item => {
-		const {number_of_rooms: numberOfRoom} = item;
-		const {matchFunc} = ROOMS_AMOUNT_MAP.find(item => item.value === +roomsAmount);
+const isRoomsAmountFilterApplied = (item, roomsAmount) => {
+	if (!roomsAmount) {
+		return true
+	}
 
-		if (matchFunc) {
-			return matchFunc(numberOfRoom);
-		}
+	const {number_of_rooms: numberOfRoom} = item;
+	const {matchFunc} = ROOMS_AMOUNT_MAP.find(item => item.value === +roomsAmount);
 
-		return numberOfRoom === +roomsAmount
-	})
-	: list;
+	if (matchFunc) {
+		return matchFunc(numberOfRoom);
+	}
+
+	return numberOfRoom === +roomsAmount;
+};
+
+const isShowSoldOutFilterApplied = (item, isShowSoldOutItems) => {
+	if(isShowSoldOutItems) {
+		return true;
+	}
+
+	const {isActual} = item;
+
+	return isActual;
+};
+
+export const filterApartmentList = (list, {roomsAmount, isShowSoldOutItems}) => list.filter(item => (
+	isRoomsAmountFilterApplied(item, roomsAmount) &&
+	isShowSoldOutFilterApplied(item, isShowSoldOutItems)
+));
