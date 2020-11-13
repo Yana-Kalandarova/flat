@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {Fragment} from 'react';
 import PropTypes from 'prop-types';
 
 import {ApartmentItem} from '../ApartmentItem';
@@ -10,13 +10,16 @@ const propTypes = {
 };
 
 const ApartmentList = ({list}) => (
-	<ul className="container-fluid">
-		{
-			list.map(item => (
-				<ApartmentItem key={item.id} {...item} />
-			))
-		}
-	</ul>
+	<Fragment>
+		<h1 className="container-fluid apartment-list-title">{list.length} apartments found</h1>
+		<ul className="container-fluid">
+			{
+				list.map(item => (
+					<ApartmentItem key={item.id} {...item} />
+				))
+			}
+		</ul>
+	</Fragment>
 );
 
 ApartmentList.propTypes = propTypes;

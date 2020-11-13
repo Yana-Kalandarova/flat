@@ -1,3 +1,8 @@
+.apartment-list-title {
+	margin: 20px auto;
+	text-transform: capitalize;
+}
+
 .apartment-item {
 	position: relative;
 	padding-top: 20px;
