@@ -9,6 +9,7 @@ const ApartmentsWrapper = () => {
 	const [apartmentList, setApartmentList] = useState(fullApartmentList);
 	const [roomsAmount, setRoomsAmount] = useState(null);
 	const [isShowSoldOutItems, setIsShowSoldOutItems] = useState(false);
+	const [isShowFavouriteOnly, setIsShowFavouriteOnly] = useState(false);
 
 	const handleChangeRoomsAmount = ({target}) => {
 		const {value} = target;
@@ -22,22 +23,30 @@ const ApartmentsWrapper = () => {
 		setIsShowSoldOutItems(checked);
 	};
 
+	const handleChangeShowFavouriteOnly = ({target}) => {
+		const {checked} = target;
+
+		setIsShowFavouriteOnly(checked);
+	};
+
 	useEffect(() => {
 		const updatedApartmentList = filterApartmentList(
 			fullApartmentList,
-			{roomsAmount, isShowSoldOutItems}
+			{roomsAmount, isShowFavouriteOnly, isShowSoldOutItems}
 		);
 
 		setApartmentList(updatedApartmentList);
-	}, [isShowSoldOutItems, roomsAmount]);
+	}, [isShowSoldOutItems, isShowFavouriteOnly, roomsAmount]);
 
 	const menuHandlers = {
 		handleUpdateApartmentsResult,
 		handleChangeRoomsAmount,
+		handleChangeShowFavouriteOnly,
 		handleChangeShowSoldOut,
 	};
 
 	const menuData = {
+		isShowFavouriteOnly,
 		isShowSoldOutItems,
 		roomsAmount,
 	};

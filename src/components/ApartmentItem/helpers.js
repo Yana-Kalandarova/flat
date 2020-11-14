@@ -1,4 +1,5 @@
 import React, {Fragment} from 'react';
+import {addApartmentToFavourite} from '../../services';
 
 export const getApartmentInfoList = ({
 	address, price, url, area, number_of_rooms, floor, number_of_floors
@@ -23,4 +24,8 @@ export const getApartmentPrices = (price, area) => {
 		priceTotal: `${roundedPrice} ${currency}`,
 		pricePerSquareMeter: `${Math.round(roundedPrice / area.total)} ${currency}`
 	});
+};
+
+export const addToFavourite = async(id, updatedData) => {
+	await addApartmentToFavourite(id, updatedData);
 };

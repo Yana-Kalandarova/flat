@@ -10,8 +10,8 @@ const propTypes = {
 	label: PropTypes.string.isRequired,
 };
 
-const CheckboxButton = ({handleChange, isChecked, label, name}) => (
-	<label className={`btn ${isChecked ? 'btn-dark' : 'btn-secondary'}`}>
+const CheckboxButton = ({handleChange, isChecked, label, name, className}) => (
+	<label className={`btn ${isChecked ? 'btn-dark' : 'btn-secondary'} ${className ? className : ''}`}>
 		{label}
 		<input type="checkbox" onChange={handleChange} name={name} checked={isChecked} />
 	</label>
