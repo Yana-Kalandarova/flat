@@ -129,3 +129,16 @@ exports.updateApartmentsData = (response) => {
 
 	updateApartmentsFile(updatedApartmentsData);
 };
+
+exports.updateApartment = (id, updatedData) => {
+	const apartmentsFileData = fs.readFileSync(APARTMENTS_FILE_PATH);
+	const apartments = parseData(apartmentsFileData);
+	const apartmentItem = apartments.get(id);
+	const updatedApartmentItem = {
+		...apartmentItem,
+		...updatedData,
+	};
+
+	apartments.set(id, updatedApartmentItem);
+	updateApartmentsFile(apartments);
+};

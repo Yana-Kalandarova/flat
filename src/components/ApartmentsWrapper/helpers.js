@@ -33,7 +33,16 @@ const isShowSoldOutFilterApplied = (item, isShowSoldOutItems) => {
 	return isActual;
 };
 
-export const filterApartmentList = (list, {roomsAmount, isShowSoldOutItems}) => list.filter(item => (
+const isShowFavouriteOnlyFilterApplied = (item, isShowFavouriteOnly) => {
+	if (isShowFavouriteOnly) {
+		return item.isFavourite;
+	}
+
+	return true;
+};
+
+export const filterApartmentList = (list, {roomsAmount, isShowFavouriteOnly, isShowSoldOutItems}) => list.filter(item => (
 	isRoomsAmountFilterApplied(item, roomsAmount) &&
-	isShowSoldOutFilterApplied(item, isShowSoldOutItems)
+	isShowSoldOutFilterApplied(item, isShowSoldOutItems) &&
+	isShowFavouriteOnlyFilterApplied(item, isShowFavouriteOnly)
 ));

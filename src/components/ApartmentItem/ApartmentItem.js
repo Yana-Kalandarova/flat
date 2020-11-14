@@ -1,8 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import {ApartmentInfo, PriceHistory} from '../index';
-import {getApartmentInfoList} from './helpers';
+import {ApartmentInfo, CheckboxButton, PriceHistory} from '../index';
+import {getApartmentInfoList, addToFavourite} from './helpers';
 
 const propTypes = {
 	id: PropTypes.number.isRequired,
@@ -43,6 +43,7 @@ const ApartmentItem = ({
 	photo,
 	price,
 	priceHistory,
+  isFavourite,
 }) => {
 	const apartmentInfoList = getApartmentInfoList({address, price, url, area, number_of_rooms, floor, number_of_floors});
 	const priceHistoryList = priceHistory.value;
@@ -51,6 +52,12 @@ const ApartmentItem = ({
 		<li key={id} className={`row apartment-item ${isActual ? 'apartment-item--actual' : 'apartment-item--deprecated'}`}>
 			<div className="col-auto">
 				<img src={photo} alt={address} className="apartment-item--img" />
+				<CheckboxButton
+					className="apartment-item--btn-add"
+					isChecked={isFavourite}
+					label={`${isFavourite ? "remove from" : "add to"} favourite`}
+					handleChange={() => addToFavourite(id, {isFavourite: !isFavourite})}
+					name="isFavourite" />
 			</div>
 			<div className="col-4">
 				<ApartmentInfo infoList={apartmentInfoList} />

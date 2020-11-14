@@ -27,6 +27,12 @@
 	display: block;
 }
 
+.apartment-item--btn-add {
+	width: 100%;
+	text-transform: uppercase;
+	margin-top: 10px;
+}
+
 .apartment-item--info-item,
 .apartment-item--price-item {
 	display: flex
