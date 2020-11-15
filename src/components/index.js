@@ -8,5 +8,6 @@ export * from './Menu';
 export * from './PriceHistory';
 export * from './RoomsAmountToggle';
 export * from './SoldOutItemsToggle';
+export * from './SortByDateToggle';
 export * from './Toggle';
 export * from './UpdateButton';
