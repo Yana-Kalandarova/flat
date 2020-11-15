@@ -41,8 +41,16 @@ const isShowFavouriteOnlyFilterApplied = (item, isShowFavouriteOnly) => {
 	return true;
 };
 
-export const filterApartmentList = (list, {roomsAmount, isShowFavouriteOnly, isShowSoldOutItems}) => list.filter(item => (
-	isRoomsAmountFilterApplied(item, roomsAmount) &&
-	isShowSoldOutFilterApplied(item, isShowSoldOutItems) &&
-	isShowFavouriteOnlyFilterApplied(item, isShowFavouriteOnly)
-));
+export const filterApartmentList = (list, {roomsAmount, isShowFavouriteOnly, isShowSoldOutItems, isSortByDate}) => {
+	const updatedList = list.filter(item => (
+		isRoomsAmountFilterApplied(item, roomsAmount) &&
+		isShowSoldOutFilterApplied(item, isShowSoldOutItems) &&
+		isShowFavouriteOnlyFilterApplied(item, isShowFavouriteOnly)
+	));
+
+	if(isSortByDate) {
+		return updatedList.reverse();
+	}
+
+	return updatedList;
+};

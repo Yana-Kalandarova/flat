@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import {UpdateButton, FavouriteOnlyToggle, RoomsAmountToggle, SoldOutItemsToggle} from '../index';
+import {UpdateButton, FavouriteOnlyToggle, RoomsAmountToggle, SoldOutItemsToggle, SortByDateToggle} from '../index';
 
 import './Menu.css';
 
@@ -11,6 +11,7 @@ const propTypes = {
 		handleChangeRoomsAmount: PropTypes.func.isRequired,
 		handleChangeShowFavouriteOnly: PropTypes.func.isRequired,
 		handleChangeShowSoldOut: PropTypes.func.isRequired,
+		handleChangeSortByDate: PropTypes.func.isRequired,
 	}).isRequired,
 };
 
@@ -20,10 +21,12 @@ const Menu = ({
 		handleChangeShowFavouriteOnly,
 		handleChangeShowSoldOut,
 		handleUpdateApartmentsResult,
+		handleChangeSortByDate,
 },
 	menuData: {
 		isShowFavouriteOnly,
 		isShowSoldOutItems,
+		isSortByDate,
 		roomsAmount,
 	}
 }) => (
@@ -31,6 +34,9 @@ const Menu = ({
 		<div className="row">
 			<div className="col">
 				<RoomsAmountToggle handleChange={handleChangeRoomsAmount} selectedValue={roomsAmount} />
+			</div>
+			<div className="col">
+				<SortByDateToggle handleChange={handleChangeSortByDate} isChecked={isSortByDate} />
 			</div>
 			<div className="col">
 				<SoldOutItemsToggle handleChange={handleChangeShowSoldOut} isChecked={isShowSoldOutItems} />
